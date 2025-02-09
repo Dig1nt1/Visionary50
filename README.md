@@ -71,6 +71,11 @@ The **Visionary50** index comprises companies with strong management and growth 
 | Colgate-Palmolive | COLPAL.NS      | 1.68%      |
 | Suzlon Energy    | SUZLON.NS       | 1.67%      |
 
+## ## 📊 Visionary50 Index Data  
+
+For detailed scoring and weightage, download the **Visionary50 Index** dataset:  
+📥 [Download Visionary50 Index Data](visionary50.xlsx)
+
 ## 🗂️ Repository Structure  
 ├── data/ # Raw and processed financial data
 ├── scripts/ # Code for index calculation and updates
