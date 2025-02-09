@@ -74,7 +74,7 @@ The **Visionary50** index comprises companies with strong management and growth 
 ## ## 📊 Visionary50 Index Data  
 
 For detailed scoring and weightage, download the **Visionary50 Index** dataset:  
-📥 [Download Visionary50 Index Data](visionary50.xlsx)
+📥 [Download Visionary50 Index Data](Visionary50.xlsx)
 
 ## 🗂️ Repository Structure  
 ├── data/ # Raw and processed financial data
