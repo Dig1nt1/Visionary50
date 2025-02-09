@@ -77,12 +77,11 @@ For detailed scoring and weightage, download the **Visionary50 Index** dataset:
 📥 [Download Visionary50 Index Data](Visionary50.xlsx)
 
 ## 🗂️ Repository Structure  
+├── LICENSE # License file
+├── README.md # Project documentation
 ├── data/ # Raw and processed financial data
 ├── scripts/ # Code for index calculation and updates
 ├── reports/ # Documentation and analysis reports
-├── README.md # Project documentation
-├── .gitignore # Ignored files
-├── LICENSE # License file
 
 
 ## 🚀 How to Use  
